@@ -249,7 +249,7 @@ for (fac in facilities) {
   # Subset abundance matrix
   fac_abund <- asv_prop_sub[, fac_samples, drop = FALSE]
   
-  # Identify core ASVs (≥ 0.001 in ≥ 50% of samples)
+  # Identify core ASVs
   core_asvs <- rownames(fac_abund)[rowSums(fac_abund >= 0.0001) >= 0.80 * length(fac_samples)]
   
   # Calculate mean and standard deviation
