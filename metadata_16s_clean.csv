@@ -1,0 +1,367 @@
+,Sample.Name,Order,Round,Sampling.date,Species,Hygienic.zoning,Food.contact.surface,Area,Sampling.site.detail,Sampling.site.detail.drain,Listeria.spp,Listeria.monocytogenes,Sample_MOC_Control,Quantity,Facility,Extraction.date
+a169,a169,82,2,7/15/24,pork,NA,yes,Raw_material_processing,Bowl_cutter,Other,negative,negative,Sample,0.203,4,3/25/25
+a179,a179,87,2,7/28/24,pork,NA,yes,Raw_material_processing,Bowl_cutter,Other,negative,negative,Sample,1.22,3,3/25/25
+a209,a209,104,1,8/12/24,pork,NA,yes,Raw_material_processing,Bowl_cutter,Other,negative,negative,Sample,0.0499,6,3/25/25
+a261,a261,129,2,9/9/24,pork,NA,yes,Raw_material_processing,Bowl_cutter,Other,negative,negative,Sample,0.0537,2,3/25/25
+a317,a317,156,3,9/16/24,pork,NA,yes,Raw_material_processing,Bowl_cutter,Other,negative,negative,Sample,0.0275,4,3/25/25
+a327,a327,162,3,10/13/24,pork,NA,yes,Raw_material_processing,Bowl_cutter,Other,negative,negative,Sample,0.021,3,3/25/25
+a357,a357,176,2,10/21/24,pork,NA,yes,Raw_material_processing,Bowl_cutter,Other,negative,negative,Sample,0.318,6,3/25/25
+a409,a409,202,3,11/18/24,pork,NA,yes,Raw_material_processing,Bowl_cutter,Other,negative,negative,Sample,0.0324,2,3/25/25
+a42,a42,20,1,4/29/24,pork,NA,yes,Raw_material_processing,Bowl_cutter,Other,negative,negative,Sample,3.83,2,7/5/24
+a465,a465,230,4,12/8/24,pork,NA,yes,Raw_material_processing,Bowl_cutter,Other,negative,negative,Sample,0.189,4,8/25/25
+a475,a475,238,4,12/15/24,pork,NA,yes,Raw_material_processing,Bowl_cutter,Other,negative,negative,Sample,0.0202,3,8/25/25
+a505,a505,251,3,1/13/25,pork,NA,yes,Raw_material_processing,Bowl_cutter,Other,negative,negative,Sample,0.402,6,8/25/25
+a557,a557,277,4,1/27/25,pork,NA,yes,Raw_material_processing,Bowl_cutter,Other,negative,negative,Sample,0.108,2,8/25/25
+a613,a613,304,5,2/16/25,pork,NA,yes,Raw_material_processing,Bowl_cutter,Other,negative,negative,Sample,0.79,4,8/25/25
+a647,a647,321,5,5/11/25,pork,NA,yes,Raw_material_processing,Bowl_cutter,Other,negative,negative,Sample,0.188,3,8/25/25
+a677,a677,336,4,5/19/25,pork,NA,yes,Raw_material_processing,Bowl_cutter,Other,negative,negative,Sample,2.74,6,8/25/25
+a705,a705,350,5,6/30/25,pork,NA,yes,Raw_material_processing,Bowl_cutter,Other,negative,negative,Sample,0.803,2,8/25/25
+a729,a729,362,5,8/4/25,pork,NA,yes,Raw_material_processing,Bowl_cutter,Other,negative,negative,Sample,0.043,6,8/25/25
+a73,a73,35,1,5/6/24,pork,NA,yes,Raw_material_processing,Bowl_cutter,Other,negative,negative,Sample,0.681,4,7/5/24
+a83,a83,39,1,5/26/24,pork,NA,yes,Raw_material_processing,Bowl_cutter,Other,negative,negative,Sample,0.0946,3,7/5/24
+a271,a271,134,2,9/9/24,pork,NA,yes,Raw_material_processing,Brine_mixer,Other,negative,negative,Sample,0.0674,2,3/25/25
+a419,a419,207,3,11/18/24,pork,NA,yes,Raw_material_processing,Brine_mixer,Other,negative,negative,Sample,0.324,2,3/25/25
+a52,a52,25,1,4/29/24,pork,NA,yes,Raw_material_processing,Brine_mixer,Other,negative,negative,Sample,4.14,2,7/5/24
+a567,a567,281,4,1/27/25,pork,NA,yes,Raw_material_processing,Brine_mixer,Other,negative,negative,Sample,0.232,2,8/25/25
+a715,a715,355,5,6/30/25,pork,NA,yes,Raw_material_processing,Brine_mixer,Other,negative,negative,Sample,1.18,2,8/25/25
+a109,a109,53,1,6/17/24,beef,NA,yes,Raw_material_processing,Conveyor_belt,Other,negative,negative,Sample,0.242,5,7/5/24
+a111,a111,54,1,6/17/24,beef,NA,yes,Raw_material_processing,Conveyor_belt,Other,negative,negative,Sample,0.696,5,7/5/24
+a121,a121,58,1,6/17/24,beef,NA,yes,Processing_finished_product,Conveyor_belt,Other,negative,negative,Sample,0.386,5,7/5/24
+a123,a123,59,1,6/17/24,beef,NA,yes,Processing_finished_product,Conveyor_belt,Other,negative,negative,Sample,0.102,5,7/5/24
+a129,a129,62,2,7/1/24,pork,NA,yes,Raw_material_processing,Conveyor_belt,Other,negative,negative,Sample,0.366,1,3/25/25
+a133,a133,64,2,7/1/24,beef,NA,yes,Raw_material_processing,Conveyor_belt,Other,negative,negative,Sample,0.544,1,3/25/25
+a141,a141,68,2,7/1/24,beef,NA,yes,Raw_material_processing,Conveyor_belt,Other,negative,negative,Sample,0.0618,1,3/25/25
+a155,a155,75,2,7/15/24,pork,NA,yes,Raw_material_processing,Conveyor_belt,Other,negative,negative,Sample,1.21,4,3/25/25
+a159,a159,77,2,7/15/24,pork,NA,yes,Raw_material_processing,Conveyor_belt,Other,negative,negative,Sample,0.0954,4,3/25/25
+a163,a163,79,2,7/15/24,pork,NA,yes,Processing_finished_product,Conveyor_belt,Other,negative,negative,Sample,0.0566,4,3/25/25
+a17,a17,9,1,4/15/24,beef,NA,yes,Raw_material_processing,Conveyor_belt,Other,negative,negative,Sample,0.171,1,7/5/24
+a189,a189,92,2,7/28/24,pork,NA,yes,Processing_finished_product,Conveyor_belt,Other,negative,negative,Sample,0.124,3,3/25/25
+a193,a193,94,2,7/28/24,pork,NA,yes,Processing_finished_product,Conveyor_belt,Other,negative,negative,Sample,0.111,3,3/25/25
+a229,a229,113,2,8/26/24,beef,NA,yes,Raw_material_processing,Conveyor_belt,Other,negative,negative,Sample,0.119,5,3/25/25
+a231,a231,114,2,8/26/24,beef,NA,yes,Raw_material_processing,Conveyor_belt,Other,negative,negative,Sample,0.0552,5,3/25/25
+a241,a241,118,2,8/26/24,beef,NA,yes,Processing_finished_product,Conveyor_belt,Other,negative,negative,Sample,0.0661,5,3/25/25
+a243,a243,119,2,8/26/24,beef,NA,yes,Processing_finished_product,Conveyor_belt,Other,negative,negative,Sample,0.0795,5,3/25/25
+a249,a249,123,2,9/9/24,pork,NA,yes,Raw_material_processing,Conveyor_belt,Other,negative,negative,Sample,1.77,2,3/25/25
+a263,a263,130,2,9/9/24,pork,NA,yes,Processing_finished_product,Conveyor_belt,Other,negative,negative,Sample,0.0356,2,3/25/25
+a277,a277,137,3,9/9/24,pork,NA,yes,Raw_material_processing,Conveyor_belt,Other,positive,negative,Sample,0.184,1,3/25/25
+a281,a281,139,3,9/9/24,beef,NA,yes,Raw_material_processing,Conveyor_belt,Other,negative,negative,Sample,0.181,1,3/25/25
+a289,a289,142,3,9/9/24,beef,NA,yes,Raw_material_processing,Conveyor_belt,Other,negative,negative,Sample,0.0252,1,3/25/25
+a30,a30,14,1,4/29/24,pork,NA,yes,Raw_material_processing,Conveyor_belt,Other,negative,negative,Sample,0.199,2,7/5/24
+a303,a303,149,3,9/16/24,pork,NA,yes,Raw_material_processing,Conveyor_belt,Other,negative,negative,Sample,0.043,4,3/25/25
+a307,a307,151,3,9/16/24,pork,NA,yes,Raw_material_processing,Conveyor_belt,Other,negative,negative,Sample,0.0412,4,3/25/25
+a311,a311,153,3,9/16/24,pork,NA,yes,Processing_finished_product,Conveyor_belt,Other,negative,negative,Sample,0.0493,4,3/25/25
+a337,a337,167,3,10/13/24,pork,NA,yes,Processing_finished_product,Conveyor_belt,Other,negative,negative,Sample,0.0775,3,3/25/25
+a341,a341,169,3,10/13/24,pork,NA,yes,Processing_finished_product,Conveyor_belt,Other,negative,negative,Sample,0.0423,3,3/25/25
+a377,a377,186,3,11/4/24,beef,NA,yes,Raw_material_processing,Conveyor_belt,Other,negative,negative,Sample,0.0085,5,3/25/25
+a379,a379,187,3,11/4/24,beef,NA,yes,Raw_material_processing,Conveyor_belt,Other,negative,negative,Sample,0.0261,5,3/25/25
+a389,a389,192,3,11/4/24,beef,NA,yes,Processing_finished_product,Conveyor_belt,Other,negative,negative,Sample,0.023,5,3/25/25
+a391,a391,193,3,11/4/24,beef,NA,yes,Processing_finished_product,Conveyor_belt,Other,negative,negative,Sample,0.0252,5,3/25/25
+a397,a397,200,3,11/18/24,pork,NA,yes,Raw_material_processing,Conveyor_belt,Other,negative,negative,Sample,102,2,3/25/25
+a411,a411,203,3,11/18/24,pork,NA,yes,Processing_finished_product,Conveyor_belt,Other,negative,negative,Sample,0.0366,2,3/25/25
+a425,a425,210,4,11/18/24,pork,NA,yes,Raw_material_processing,Conveyor_belt,Other,negative,negative,Sample,0.0626,1,3/25/25
+a429,a429,212,4,11/18/24,beef,NA,yes,Raw_material_processing,Conveyor_belt,Other,negative,negative,Sample,0.0413,1,3/25/25
+a437,a437,216,4,11/18/24,beef,NA,yes,Raw_material_processing,Conveyor_belt,Other,negative,negative,Sample,0.263,1,8/25/25
+a44,a44,21,1,4/29/24,pork,NA,yes,Processing_finished_product,Conveyor_belt,Other,negative,negative,Sample,0.123,2,7/5/24
+a451,a451,223,4,12/8/24,pork,NA,yes,Raw_material_processing,Conveyor_belt,Other,negative,negative,Sample,0.108,4,8/25/25
+a455,a455,225,4,12/8/24,pork,NA,yes,Raw_material_processing,Conveyor_belt,Other,negative,negative,Sample,0.145,4,8/25/25
+a459,a459,227,4,12/8/24,pork,NA,yes,Processing_finished_product,Conveyor_belt,Other,negative,negative,Sample,0.0728,4,8/25/25
+a485,a485,242,4,12/15/24,pork,NA,yes,Processing_finished_product,Conveyor_belt,Other,negative,negative,Sample,0.0459,3,8/25/25
+a489,a489,243,4,12/15/24,pork,NA,yes,Processing_finished_product,Conveyor_belt,Other,negative,negative,Sample,0.0356,3,8/25/25
+a5,a5,3,1,4/15/24,pork,NA,yes ,Raw_material_processing,Conveyor_belt,Other,negative,negative,Sample,0.154,1,7/5/24
+a525,a525,260,4,1/13/25,beef,NA,yes,Raw_material_processing,Conveyor_belt,Other,negative,negative,Sample,0.119,5,8/25/25
+a527,a527,261,4,1/13/25,beef,NA,yes,Raw_material_processing,Conveyor_belt,Other,negative,negative,Sample,0.0622,5,8/25/25
+a537,a537,266,4,1/13/25,beef,NA,yes,Processing_finished_product,Conveyor_belt,Other,negative,negative,Sample,0.0695,5,8/25/25
+a539,a539,267,4,1/13/25,beef,NA,yes,Processing_finished_product,Conveyor_belt,Other,negative,negative,Sample,0.193,5,8/25/25
+a545,a545,272,4,1/27/25,pork,NA,yes,Raw_material_processing,Conveyor_belt,Other,negative,negative,Sample,0.321,2,8/25/25
+a559,a559,278,4,1/27/25,pork,NA,yes,Processing_finished_product,Conveyor_belt,Other,negative,negative,Sample,0.14,2,8/25/25
+a573,a573,284,5,2/3/25,pork,NA,yes,Raw_material_processing,Conveyor_belt,Other,negative,negative,Sample,0.0993,1,8/25/25
+a577,a577,286,5,2/3/25,beef,NA,yes,Raw_material_processing,Conveyor_belt,Other,negative,negative,Sample,0.108,1,8/25/25
+a585,a585,290,5,2/3/25,beef,NA,yes,Raw_material_processing,Conveyor_belt,Other,negative,negative,Sample,0.125,1,8/25/25
+a59,a59,28,1,5/6/24,pork,NA,yes,Raw_material_processing,Conveyor_belt,Other,negative,negative,Sample,0.279,4,7/5/24
+a599,a599,297,5,2/16/25,pork,NA,yes,Raw_material_processing,Conveyor_belt,Other,negative,negative,Sample,0.388,4,8/25/25
+a603,a603,299,5,2/16/25,pork,NA,yes,Raw_material_processing,Conveyor_belt,Other,negative,negative,Sample,NA,4,8/25/25
+a607,a607,301,5,2/16/25,pork,NA,yes,Processing_finished_product,Conveyor_belt,Other,negative,negative,Sample,0.374,4,8/25/25
+a625,a625,311,5,5/5/25,beef,NA,yes,Raw_material_processing,Conveyor_belt,Other,negative,negative,Sample,1.02,5,8/25/25
+a627,a627,312,5,5/5/25,beef,NA,yes,Raw_material_processing,Conveyor_belt,Other,negative,negative,Sample,0.288,5,8/25/25
+a63,a63,30,1,5/6/24,pork,NA,yes,Raw_material_processing,Conveyor_belt,Other,negative,negative,Sample,0.237,4,7/5/24
+a637,a637,316,5,5/5/25,beef,NA,yes,Processing_finished_product,Conveyor_belt,Other,negative,negative,Sample,0.229,5,8/25/25
+a639,a639,317,5,5/5/25,beef,NA,yes,Processing_finished_product,Conveyor_belt,Other,negative,negative,Sample,0.416,5,8/25/25
+a657,a657,326,5,5/11/25,pork,NA,yes,Processing_finished_product,Conveyor_belt,Other,negative,negative,Sample,0.303,3,8/25/25
+a661,a661,328,5,5/11/25,pork,NA,yes,Processing_finished_product,Conveyor_belt,Other,negative,negative,Sample,0.548,3,8/25/25
+a67,a67,32,1,5/6/24,pork,NA,yes,Processing_finished_product,Conveyor_belt,Other,negative,negative,Sample,0.383,4,7/5/24
+a693,a693,344,5,6/30/25,pork,NA,yes,Raw_material_processing,Conveyor_belt,Other,negative,negative,Sample,5.7,2,8/25/25
+a707,a707,351,5,6/30/25,pork,NA,yes,Processing_finished_product,Conveyor_belt,Other,negative,negative,Sample,0.503,2,8/25/25
+a9,a9,5,1,4/15/24,beef,NA,yes ,Raw_material_processing,Conveyor_belt,Other,negative,negative,Sample,0.0299,1,7/5/24
+a93,a93,44,1,5/26/24,pork,NA,yes,Processing_finished_product,Conveyor_belt,Other,negative,negative,Sample,0.0825,3,7/5/24
+a97,a97,46,1,5/26/24,pork,NA,yes,Processing_finished_product,Conveyor_belt,Other,negative,negative,Sample,0.087,3,7/5/24
+a117,a117,57,1,6/17/24,beef,NA,yes,Raw_material_processing,Cutting_board,Other,negative,negative,Sample,0.222,5,7/5/24
+a203,a203,101,1,8/12/24,pork,NA,yes,Raw_material_processing,Cutting_board,Other,negative,negative,Sample,0.0662,6,3/25/25
+a237,a237,117,2,8/26/24,beef,NA,yes,Raw_material_processing,Cutting_board,Other,negative,negative,Sample,0.058,5,3/25/25
+a267,a267,132,2,9/9/24,pork,NA,yes,Processing_finished_product,Cutting_board,Other,negative,negative,Sample,0.108,2,3/25/25
+a351,a351,173,2,10/21/24,pork,NA,yes,Raw_material_processing,Cutting_board,Other,negative,negative,Sample,0.0619,6,3/25/25
+a385,a385,190,3,11/4/24,beef,NA,yes,Raw_material_processing,Cutting_board,Other,negative,negative,Sample,0.0077,5,3/25/25
+a415,a415,205,3,11/18/24,pork,NA,yes,Processing_finished_product,Cutting_board,Other,negative,negative,Sample,0.0542,2,3/25/25
+a48,a48,23,1,4/29/24,pork,NA,yes,Processing_finished_product,Cutting_board,Other,negative,negative,Sample,0.0393,2,7/5/24
+a499,a499,248,3,1/13/25,pork,NA,yes,Raw_material_processing,Cutting_board,Other,negative,negative,Sample,0.209,6,8/25/25
+a533,a533,264,4,1/13/25,beef,NA,yes,Raw_material_processing,Cutting_board,Other,negative,negative,Sample,0.134,5,8/25/25
+a563,a563,280,4,1/27/25,pork,NA,yes,Processing_finished_product,Cutting_board,Other,negative,negative,Sample,0.111,2,8/25/25
+a633,a633,315,5,5/5/25,beef,NA,yes,Raw_material_processing,Cutting_board,Other,negative,negative,Sample,0.949,5,8/25/25
+a671,a671,334,4,5/19/25,pork,NA,yes,Raw_material_processing,Cutting_board,Other,positive,negative,Sample,3.72,6,8/25/25
+a711,a711,353,5,6/30/25,pork,NA,yes,Processing_finished_product,Cutting_board,Other,negative,negative,Sample,0.943,2,8/25/25
+a723,a723,359,5,8/4/25,pork,NA,yes,Raw_material_processing,Cutting_board,Other,negative,negative,Sample,0.105,6,8/25/25
+a113,a113,55,1,6/17/24,beef,NA,yes,Raw_material_processing,Cutting_device ,Other,negative,negative,Sample,0.295,5,7/5/24
+a115,a115,56,1,6/17/24,beef,NA,yes,Raw_material_processing,Cutting_device ,Other,negative,negative,Sample,0.193,5,7/5/24
+a171,a171,83,2,7/15/24,pork,NA,yes,Processing_finished_product,Cutting_device ,Other,negative,negative,Sample,0.119,4,3/25/25
+a201,a201,100,1,8/12/24,pork,NA,yes,Raw_material_processing,Cutting_device ,Other,negative,negative,Sample,0.0731,6,3/25/25
+a217,a217,107,1,8/12/24,pork,NA,yes,Processing_finished_product,Cutting_device ,Other,negative,negative,Sample,0.182,6,3/25/25
+a233,a233,115,2,8/26/24,beef,NA,yes,Raw_material_processing,Cutting_device ,Other,negative,negative,Sample,0.115,5,3/25/25
+a235,a235,116,2,8/26/24,beef,NA,yes,Raw_material_processing,Cutting_device ,Other,negative,negative,Sample,0.387,5,3/25/25
+a319,a319,157,3,9/16/24,pork,NA,yes,Processing_finished_product,Cutting_device ,Other,negative,negative,Sample,0.0948,4,3/25/25
+a349,a349,172,2,10/21/24,pork,NA,yes,Raw_material_processing,Cutting_device ,Other,negative,negative,Sample,0.549,6,3/25/25
+a365,a365,180,2,10/21/24,pork,NA,yes,Processing_finished_product,Cutting_device ,Other,negative,negative,Sample,0.0592,6,3/25/25
+a381,a381,188,3,11/4/24,beef,NA,yes,Raw_material_processing,Cutting_device ,Other,negative,negative,Sample,0.0131,5,3/25/25
+a383,a383,189,3,11/4/24,beef,NA,yes,Raw_material_processing,Cutting_device ,Other,negative,negative,Sample,0.0443,5,3/25/25
+a467,a467,231,4,12/8/24,pork,NA,yes,Processing_finished_product,Cutting_device ,Other,negative,negative,Sample,0.0786,4,8/25/25
+a497,a497,247,3,1/13/25,pork,NA,yes,Raw_material_processing,Cutting_device ,Other,negative,negative,Sample,3.58,6,8/25/25
+a513,a513,255,3,1/13/25,pork,NA,yes,Processing_finished_product,Cutting_device ,Other,negative,negative,Sample,0.242,6,8/25/25
+a529,a529,262,4,1/13/25,beef,NA,yes,Raw_material_processing,Cutting_device ,Other,negative,negative,Sample,0.199,5,8/25/25
+a531,a531,263,4,1/13/25,beef,NA,yes,Raw_material_processing,Cutting_device ,Other,negative,negative,Sample,0.13,5,8/25/25
+a615,a615,305,5,2/16/25,pork,NA,yes,Processing_finished_product,Cutting_device ,Other,negative,negative,Sample,0.44,4,8/25/25
+a629,a629,313,5,5/5/25,beef,NA,yes,Raw_material_processing,Cutting_device ,Other,negative,negative,Sample,0.699,5,8/25/25
+a631,a631,314,5,5/5/25,beef,NA,yes,Raw_material_processing,Cutting_device ,Other,negative,negative,Sample,0.857,5,8/25/25
+a669,a669,333,4,5/19/25,pork,NA,yes,Raw_material_processing,Cutting_device ,Other,positive,negative,Sample,1.22,6,8/25/25
+a685,a685,340,4,5/19/25,pork,NA,yes,Processing_finished_product,Cutting_device ,Other,negative,negative,Sample,1.71,6,8/25/25
+a721,a721,358,5,8/4/25,pork,NA,yes,Raw_material_processing,Cutting_device ,Other,negative,negative,Sample,0.143,6,8/25/25
+a737,a737,366,5,8/4/25,pork,NA,yes,Processing_finished_product,Cutting_device ,Other,negative,negative,Sample,0.0494,6,8/25/25
+a75,a75,36,1,5/6/24,pork,NA,yes,Processing_finished_product,Cutting_device ,Other,negative,negative,Sample,0.329,4,7/5/24
+a01,a01,1,1,4/15/24,beef,NA,no,Receiving_area,Drain ,Drain,negative,negative,Sample,0.182,1,7/5/24
+a101,a101,49,1,6/17/24,beef,NA,no,Receiving_area,Drain ,Drain,negative,negative,Sample,1.66,5,7/5/24
+a103,a103,50,1,6/17/24,beef,NA,no,Cold_room,Drain ,Drain,negative,negative,Sample,0.147,5,7/5/24
+a105,a105,51,1,6/17/24,beef,NA,no,Raw_material_processing,Drain ,Drain,negative,negative,Sample,1.41,5,7/5/24
+a107,a107,52,1,6/17/24,beef,NA,no,Raw_material_processing,Drain ,Drain,negative,negative,Sample,0.451,5,7/5/24
+a11,a11,6,1,4/15/24,beef,NA,no,Raw_material_processing,Drain ,Drain,negative,negative,Sample,0.746,1,7/5/24
+a119,a119,48,1,6/17/24,beef,NA,no,Processing_finished_product,Drain ,Drain,positive,positive,Sample,0.389,5,7/5/24
+a125,a125,60,2,7/1/24,beef,NA,no,Receiving_area,Drain ,Drain,positive,negative,Sample,0.201,1,7/5/24
+a127,a127,61,2,7/1/24,pork,NA,no,Receiving_area,Drain ,Drain,negative,negative,Sample,0.093,1,3/25/25
+a131,a131,63,2,7/1/24,pork,NA,no,Raw_material_processing,Drain ,Drain,negative,negative,Sample,0.0561,1,3/25/25
+a135,a135,65,2,7/1/24,beef,NA,no,Raw_material_processing,Drain ,Drain,negative,negative,Sample,0.277,1,3/25/25
+a139,a139,67,2,7/1/24,pork,NA,no,Raw_material_processing,Drain ,Drain,negative,negative,Sample,0.0398,1,3/25/25
+a143,a143,69,2,7/1/24,beef,NA,no,Raw_material_processing,Drain ,Drain,positive,negative,Sample,0.208,1,3/25/25
+a147,a147,71,2,7/1/24,both,NA,no,Processing_finished_product,Drain ,Drain,negative,negative,Sample,0.405,1,3/25/25
+a149,a149,72,2,7/15/24,pork,NA,no,Receiving_area,Drain ,Drain,negative,negative,Sample,1.53,4,3/25/25
+a15,a15,8,1,4/15/24,pork,NA,no,Raw_material_processing,Drain ,Drain,negative,negative,Sample,0.622,1,7/5/24
+a151,a151,73,2,7/15/24,pork,NA,no,Raw_material_processing,Drain ,Drain,negative,negative,Sample,0.477,4,3/25/25
+a157,a157,76,2,7/15/24,pork,NA,no,Raw_material_processing,Drain ,Drain,negative,negative,Sample,0.527,4,3/25/25
+a161,a161,78,2,7/15/24,pork,NA,no,Cold_room,Drain ,Drain,positive,negative,Sample,14,4,3/25/25
+a165,a165,80,2,7/15/24,pork,NA,no,Processing_finished_product,Drain ,Drain,negative,negative,Sample,0.295,4,3/25/25
+a173,a173,84,2,7/28/24,pork,NA,no,Receiving_area,Drain ,Drain,positive,negative,Sample,26,3,3/25/25
+a175,a175,85,2,7/28/24,pork,NA,no,Raw_material_processing,Drain ,Drain,negative,negative,Sample,0.0845,3,3/25/25
+a181,a181,88,2,7/28/24,pork,NA,no,Raw_material_processing,Drain ,Drain,negative,negative,Sample,0.718,3,3/25/25
+a183,a183,89,2,7/28/24,pork,NA,no,Raw_material_processing,Drain ,Drain,negative,negative,Sample,1.37,3,3/25/25
+a187,a187,91,2,7/28/24,pork,NA,no,Processing_finished_product,Drain ,Drain,negative,negative,Sample,0.0915,3,3/25/25
+a19,a19,10,1,4/15/24,beef,NA,no,Raw_material_processing,Drain ,Drain,negative,negative,Sample,0.784,1,7/5/24
+a191,a191,93,2,7/28/24,pork,NA,no,Cold_room,Drain ,Drain,positive,negative,Sample,92,3,3/25/25
+a195,a195,95,2,7/28/24,pork,NA,no,Processing_finished_product,Drain ,Drain,negative,negative,Sample,51,3,3/25/25
+a197,a197,98,1,8/12/24,pork,NA,no,Receiving_area,Drain ,Drain,positive,negative,Sample,18,6,3/25/25
+a199,a199,99,1,8/12/24,pork,NA,no,Raw_material_processing,Drain ,Drain,positive,negative,Sample,0.655,6,3/25/25
+a205,a205,102,1,8/12/24,pork,NA,no,Raw_material_processing,Drain ,Drain,negative,negative,Sample,2.96,6,3/25/25
+a207,a207,103,1,8/12/24,pork,NA,no,Raw_material_processing,Drain ,Drain,negative,negative,Sample,11,6,3/25/25
+a215,a215,96,1,8/12/24,pork,NA,no,Cold_room,Drain ,Drain,positive,positive,Sample,1.01,6,3/25/25
+a219,a219,97,1,8/12/24,pork,NA,no,Processing_finished_product,Drain ,Drain,positive,positive,Sample,0.997,6,3/25/25
+a221,a221,109,2,8/26/24,beef,NA,no,Receiving_area,Drain ,Drain,negative,negative,Sample,0.0881,5,3/25/25
+a223,a223,110,2,8/26/24,beef,NA,no,Cold_room,Drain ,Drain,negative,negative,Sample,3.89,5,3/25/25
+a225,a225,111,2,8/26/24,beef,NA,no,Raw_material_processing,Drain ,Drain,negative,negative,Sample,4.99,5,3/25/25
+a227,a227,112,2,8/26/24,beef,NA,no,Raw_material_processing,Drain ,Drain,negative,negative,Sample,5,5,3/25/25
+a23,a23,12,1,4/15/24,both,NA,no,Processing_finished_product,Drain ,Drain,negative,negative,Sample,1.97,1,7/5/24
+a239,a239,108,2,8/26/24,beef,NA,no,Processing_finished_product,Drain ,Drain,positive,positive,Sample,8.1,5,3/25/25
+a245,a245,121,2,9/9/24,pork,NA,no,Receiving_area,Drain ,Drain,negative,negative,Sample,0.471,2,3/25/25
+a251,a251,124,2,9/9/24,pork,NA,no,Raw_material_processing,Drain ,Drain,negative,negative,Sample,2.04,2,3/25/25
+a255,a255,126,2,9/9/24,pork,NA,no,Raw_material_processing,Drain ,Drain,negative,negative,Sample,1.03,2,3/25/25
+a259,a259,128,2,9/9/24,pork,NA,no,Raw_material_processing,Drain ,Drain,negative,negative,Sample,48,2,3/25/25
+a265,a265,131,2,9/9/24,pork,NA,no,Processing_finished_product,Drain ,Drain,negative,negative,Sample,0.224,2,3/25/25
+a269,a269,133,2,9/9/24,pork,NA,no,Cold_room,Drain ,Drain,negative,negative,Sample,32,2,3/25/25
+a273,a273,135,3,9/9/24,beef,NA,no,Receiving_area,Drain ,Drain,negative,negative,Sample,2.56,1,3/25/25
+a275,a275,136,3,9/9/24,pork,NA,no,Receiving_area,Drain ,Drain,negative,negative,Sample,0.809,1,3/25/25
+a279,a279,138,3,9/9/24,pork,NA,no,Raw_material_processing,Drain ,Drain,negative,negative,Sample,21,1,3/25/25
+a283,a283,120,3,9/9/24,beef,NA,no,Raw_material_processing,Drain ,Drain,positive,positive,Sample,0.289,1,3/25/25
+a287,a287,141,3,9/9/24,pork,NA,no,Raw_material_processing,Drain ,Drain,positive,negative,Sample,0.0996,1,3/25/25
+a291,a291,143,3,9/9/24,beef,NA,no,Raw_material_processing,Drain ,Drain,negative,negative,Sample,0.0346,1,3/25/25
+a295,a295,145,3,9/9/24,both,NA,no,Processing_finished_product,Drain ,Drain,negative,negative,Sample,0.349,1,3/25/25
+a297,a297,146,3,9/16/24,pork,NA,no,Receiving_area,Drain ,Drain,positive,negative,Sample,0.281,4,3/25/25
+a299,a299,147,3,9/16/24,pork,NA,no,Raw_material_processing,Drain ,Drain,negative,negative,Sample,1.1,4,3/25/25
+a3,a3,2,1,4/15/24,pork,NA,no,Receiving_area,Drain ,Drain,negative,negative,Sample,0.781,1,7/5/24
+a305,a305,150,3,9/16/24,pork,NA,no,Raw_material_processing,Drain ,Drain,positive,negative,Sample,0.626,4,3/25/25
+a309,a309,152,3,9/16/24,pork,NA,no,Cold_room,Drain ,Drain,negative,negative,Sample,0.501,4,3/25/25
+a313,a313,154,3,9/16/24,pork,NA,no,Processing_finished_product,Drain ,Drain,negative,negative,Sample,0.142,4,3/25/25
+a32,a32,15,1,4/29/24,pork,NA,no,Raw_material_processing,Drain ,Drain,negative,negative,Sample,5.5,2,7/5/24
+a321,a321,159,3,10/13/24,pork,NA,no,Receiving_area,Drain ,Drain,negative,negative,Sample,1.79,3,3/25/25
+a323,a323,160,3,10/13/24,pork,NA,no,Raw_material_processing,Drain ,Drain,negative,negative,Sample,0.199,3,3/25/25
+a329,a329,163,3,10/13/24,pork,NA,no,Raw_material_processing,Drain ,Drain,negative,negative,Sample,0.0809,3,3/25/25
+a331,a331,164,3,10/13/24,pork,NA,no,Raw_material_processing,Drain ,Drain,negative,negative,Sample,0.562,3,3/25/25
+a335,a335,166,3,10/13/24,pork,NA,no,Processing_finished_product,Drain ,Drain,negative,negative,Sample,0.156,3,3/25/25
+a339,a339,168,3,10/13/24,pork,NA,no,Cold_room,Drain ,Drain,positive,negative,Sample,17,3,3/25/25
+a343,a343,158,3,10/13/24,pork,NA,no,Processing_finished_product,Drain ,Drain,positive,positive,Sample,21,3,3/25/25
+a345,a345,170,2,10/21/24,pork,NA,no,Receiving_area,Drain ,Drain,negative,negative,Sample,1.93,6,3/25/25
+a347,a347,171,2,10/21/24,pork,NA,no,Raw_material_processing,Drain ,Drain,negative,negative,Sample,0.143,6,3/25/25
+a353,a353,174,2,10/21/24,pork,NA,no,Raw_material_processing,Drain ,Drain,negative,negative,Sample,1.01,6,3/25/25
+a355,a355,175,2,10/21/24,pork,NA,no,Raw_material_processing,Drain ,Drain,positive,negative,Sample,2.05,6,3/25/25
+a36,a36,17,1,4/29/24,pork,NA,no,Raw_material_processing,Drain ,Drain,negative,negative,Sample,0.771,2,7/5/24
+a363,a363,179,2,10/21/24,pork,NA,no,Cold_room,Drain ,Drain,negative,negative,Sample,0.127,6,3/25/25
+a367,a367,181,2,10/21/24,pork,NA,no,Processing_finished_product,Drain ,Drain,negative,negative,Sample,0.22,6,3/25/25
+a369,a369,182,3,11/4/24,beef,NA,no,Receiving_area,Drain ,Drain,negative,negative,Sample,0.0104,5,3/25/25
+a371,a371,183,3,11/4/24,beef,NA,no,Cold_room,Drain ,Drain,negative,negative,Sample,2.85,5,3/25/25
+a373,a373,184,3,11/4/24,beef,NA,no,Raw_material_processing,Drain ,Drain,negative,negative,Sample,0.21,5,3/25/25
+a375,a375,185,3,11/4/24,beef,NA,no,Raw_material_processing,Drain ,Drain,positive,negative,Sample,0.63,5,3/25/25
+a387,a387,191,3,11/4/24,beef,NA,no,Processing_finished_product,Drain ,Drain,negative,negative,Sample,0.157,5,3/25/25
+a393,a393,198,3,11/18/24,pork,NA,no,Receiving_area,Drain ,Drain,positive,negative,Sample,47,2,3/25/25
+a399,a399,194,3,11/18/24,pork,NA,no,Raw_material_processing,Drain ,Drain,positive,positive,Sample,168,2,3/25/25
+a40,a40,19,1,4/29/24,pork,NA,no,Raw_material_processing,Drain ,Drain,negative,negative,Sample,0.0761,2,7/5/24
+a403,a403,201,3,11/18/24,pork,NA,no,Raw_material_processing,Drain ,Drain,negative,negative,Sample,16,2,3/25/25
+a407,a407,197,3,11/18/24,pork,NA,no,Raw_material_processing,Drain ,Drain,positive,positive,Sample,17,2,3/25/25
+a413,a413,204,3,11/18/24,pork,NA,no,Processing_finished_product,Drain ,Drain,negative,negative,Sample,0.552,2,3/25/25
+a417,a417,206,3,11/18/24,pork,NA,no,Cold_room,Drain ,Drain,positive,negative,Sample,11,2,3/25/25
+a421,a421,208,4,11/18/24,beef,NA,no,Receiving_area,Drain ,Drain,negative,negative,Sample,2.74,1,3/25/25
+a423,a423,209,4,11/18/24,pork,NA,no,Receiving_area,Drain ,Drain,negative,negative,Sample,0.19,1,3/25/25
+a427,a427,211,4,11/18/24,pork,NA,no,Raw_material_processing,Drain ,Drain,negative,negative,Sample,2.27,1,3/25/25
+a431,a431,213,4,11/18/24,beef,NA,no,Raw_material_processing,Drain ,Drain,negative,negative,Sample,0.0174,1,3/25/25
+a435,a435,215,4,11/18/24,pork,NA,no,Raw_material_processing,Drain ,Drain,negative,negative,Sample,0.109,1,3/25/25
+a439,a439,217,4,11/18/24,beef,NA,no,Raw_material_processing,Drain ,Drain,negative,negative,Sample,0.059,1,8/25/25
+a443,a443,219,4,11/18/24,both,NA,no,Processing_finished_product,Drain ,Drain,negative,negative,Sample,0.129,1,8/25/25
+a445,a445,220,4,12/8/24,pork,NA,no,Receiving_area,Drain ,Drain,negative,negative,Sample,2.75,4,8/25/25
+a447,a447,221,4,12/8/24,pork,NA,no,Raw_material_processing,Drain ,Drain,negative,negative,Sample,30,4,8/25/25
+a453,a453,224,4,12/8/24,pork,NA,no,Raw_material_processing,Drain ,Drain,negative,negative,Sample,16,4,8/25/25
+a457,a457,226,4,12/8/24,pork,NA,no,Cold_room,Drain ,Drain,positive,negative,Sample,156,4,8/25/25
+a46,a46,22,1,4/29/24,pork,NA,no,Processing_finished_product,Drain ,Drain,negative,negative,Sample,0.149,2,7/5/24
+a461,a461,228,4,12/8/24,pork,NA,no,Processing_finished_product,Drain ,Drain,negative,negative,Sample,0.159,4,8/25/25
+a469,a469,232,4,12/15/24,pork,NA,no,Receiving_area,Drain ,Drain,positive,positive,Sample,1.72,3,8/25/25
+a471,a471,233,4,12/15/24,pork,NA,no,Raw_material_processing,Drain ,Drain,positive,positive,Sample,0.751,3,8/25/25
+a477,a477,239,4,12/15/24,pork,NA,no,Raw_material_processing,Drain ,Drain,negative,negative,Sample,0.309,3,8/25/25
+a479,a479,234,4,12/15/24,pork,NA,no,Raw_material_processing,Drain ,Drain,positive,positive,Sample,1.08,3,8/25/25
+a483,a483,241,4,12/15/24,pork,NA,no,Processing_finished_product,Drain ,Drain,positive,negative,Sample,0.834,3,8/25/25
+a487,a487,235,4,12/15/24,pork,NA,no,Cold_room,Drain ,Drain,positive,positive,Sample,14,3,8/25/25
+a491,a491,236,4,12/15/24,pork,NA,no,Processing_finished_product,Drain ,Drain,positive,positive,Sample,177,3,8/25/25
+a493,a493,245,3,1/13/25,pork,NA,no,Receiving_area,Drain ,Drain,negative,negative,Sample,7,6,8/25/25
+a495,a495,246,3,1/13/25,pork,NA,no,Raw_material_processing,Drain ,Drain,negative,negative,Sample,0.038,6,8/25/25
+a50,a50,24,1,4/29/24,pork,NA,no,Cold_room,Drain ,Drain,negative,negative,Sample,0.0501,2,7/5/24
+a501,a501,249,3,1/13/25,pork,NA,no,Raw_material_processing,Drain ,Drain,negative,negative,Sample,0.229,6,8/25/25
+a503,a503,250,3,1/13/25,pork,NA,no,Raw_material_processing,Drain ,Drain,negative,negative,Sample,0.173,6,8/25/25
+a511,a511,254,3,1/13/25,pork,NA,no,Cold_room,Drain ,Drain,negative,negative,Sample,0.0877,6,8/25/25
+a515,a515,256,3,1/13/25,pork,NA,no,Processing_finished_product,Drain ,Drain,negative,negative,Sample,0.37,6,8/25/25
+a517,a517,257,4,1/13/25,beef,NA,no,Receiving_area,Drain ,Drain,negative,negative,Sample,0.0656,5,8/25/25
+a519,a519,258,4,1/13/25,beef,NA,no,Cold_room,Drain ,Drain,negative,negative,Sample,0.16,5,8/25/25
+a521,a521,244,4,1/13/25,beef,NA,no,Raw_material_processing,Drain ,Drain,positive,positive,Sample,7.7,5,8/25/25
+a523,a523,259,4,1/13/25,beef,NA,no,Raw_material_processing,Drain ,Drain,negative,negative,Sample,0.348,5,8/25/25
+a535,a535,265,4,1/13/25,beef,NA,no,Processing_finished_product,Drain ,Drain,negative,negative,Sample,0.3,5,8/25/25
+a541,a541,270,4,1/27/25,pork,NA,no,Receiving_area,Drain ,Drain,negative,negative,Sample,0.619,2,8/25/25
+a547,a547,273,4,1/27/25,pork,NA,no,Raw_material_processing,Drain ,Drain,negative,negative,Sample,0.39,2,8/25/25
+a55,a55,26,1,5/6/24,pork,NA,no,Raw_material_processing,Drain ,Drain,negative,negative,Sample,0.455,4,7/5/24
+a551,a551,275,4,1/27/25,pork,NA,no,Raw_material_processing,Drain ,Drain,negative,negative,Sample,1.15,2,8/25/25
+a555,a555,268,4,1/27/25,pork,NA,no,Raw_material_processing,Drain ,Drain,positive,positive,Sample,0.403,2,8/25/25
+a561,a561,279,4,1/27/25,pork,NA,no,Processing_finished_product,Drain ,Drain,negative,negative,Sample,0.237,2,8/25/25
+a565,a565,269,4,1/27/25,pork,NA,no,Cold_room,Drain ,Drain,positive,positive,Sample,37,2,8/25/25
+a569,a569,282,5,2/3/25,beef,NA,no,Receiving_area,Drain ,Drain,negative,negative,Sample,0.0444,1,8/25/25
+a571,a571,283,5,2/3/25,pork,NA,no,Receiving_area,Drain ,Drain,negative,negative,Sample,0.0953,1,8/25/25
+a575,a575,285,5,2/3/25,pork,NA,no,Raw_material_processing,Drain ,Drain,negative,negative,Sample,0.401,1,8/25/25
+a579,a579,287,5,2/3/25,beef,NA,no,Raw_material_processing,Drain ,Drain,negative,negative,Sample,0.727,1,8/25/25
+a583,a583,289,5,2/3/25,pork,NA,no,Raw_material_processing,Drain ,Drain,negative,negative,Sample,0.158,1,8/25/25
+a587,a587,291,5,2/3/25,beef,NA,no,Raw_material_processing,Drain ,Drain,negative,negative,Sample,0.156,1,8/25/25
+a591,a591,293,5,2/3/25,both,NA,no,Processing_finished_product,Drain ,Drain,negative,negative,Sample,0.166,1,8/25/25
+a593,a593,294,5,2/16/25,pork,NA,no,Receiving_area,Drain ,Drain,negative,negative,Sample,123,4,8/25/25
+a595,a595,295,5,2/16/25,pork,NA,no,Raw_material_processing,Drain ,Drain,negative,negative,Sample,2.17,4,8/25/25
+a601,a601,298,5,2/16/25,pork,NA,no,Raw_material_processing,Drain ,Drain,negative,negative,Sample,1.21,4,8/25/25
+a605,a605,300,5,2/16/25,pork,NA,no,Cold_room,Drain ,Drain,negative,negative,Sample,NA,4,8/25/25
+a609,a609,302,5,2/16/25,pork,NA,no,Processing_finished_product,Drain ,Drain,negative,negative,Sample,0.715,4,8/25/25
+a61,a61,29,1,5/6/24,pork,NA,no,Raw_material_processing,Drain ,Drain,negative,negative,Sample,0.682,4,7/5/24
+a617,a617,307,5,5/5/25,beef,NA,no,Receiving_area,Drain ,Drain,negative,negative,Sample,3.34,5,8/25/25
+a619,a619,308,5,5/5/25,beef,NA,no,Cold_room,Drain ,Drain,negative,negative,Sample,17,5,8/25/25
+a621,a621,309,5,5/5/25,beef,NA,no,Raw_material_processing,Drain ,Drain,negative,negative,Sample,15,5,8/25/25
+a623,a623,310,5,5/5/25,beef,NA,no,Raw_material_processing,Drain ,Drain,negative,negative,Sample,0.653,5,8/25/25
+a635,a635,306,5,5/5/25,beef,NA,no,Processing_finished_product,Drain ,Drain,positive,positive,Sample,5.6,5,8/25/25
+a641,a641,318,5,5/11/25,pork,NA,no,Receiving_area,Drain ,Drain,positive,negative,Sample,5,3,8/25/25
+a643,a643,319,5,5/11/25,pork,NA,no,Raw_material_processing,Drain ,Drain,positive,negative,Sample,0.345,3,8/25/25
+a649,a649,322,5,5/11/25,pork,NA,no,Raw_material_processing,Drain ,Drain,negative,negative,Sample,0.735,3,8/25/25
+a65,a65,31,1,5/6/24,pork,NA,no,Cold_room,Drain ,Drain,negative,negative,Sample,11,4,7/5/24
+a651,a651,323,5,5/11/25,pork,NA,no,Raw_material_processing,Drain ,Drain,negative,negative,Sample,0.888,3,8/25/25
+a655,a655,325,5,5/11/25,pork,NA,no,Processing_finished_product,Drain ,Drain,negative,negative,Sample,0.108,3,8/25/25
+a659,a659,327,5,5/11/25,pork,NA,no,Cold_room,Drain ,Drain,negative,negative,Sample,0.185,3,8/25/25
+a663,a663,329,5,5/11/25,pork,NA,no,Processing_finished_product,Drain ,Drain,negative,negative,Sample,5.6,3,8/25/25
+a665,a665,331,4,5/19/25,pork,NA,no,Receiving_area,Drain ,Drain,negative,negative,Sample,0.805,6,8/25/25
+a667,a667,332,4,5/19/25,pork,NA,no,Raw_material_processing,Drain ,Drain,negative,negative,Sample,3.06,6,8/25/25
+a673,a673,330,4,5/19/25,pork,NA,no,Raw_material_processing,Drain ,Drain,positive,positive,Sample,9,6,8/25/25
+a675,a675,335,4,5/19/25,pork,NA,no,Raw_material_processing,Drain ,Drain,negative,negative,Sample,1.89,6,8/25/25
+a683,a683,339,4,5/19/25,pork,NA,no,Cold_room,Drain ,Drain,negative,negative,Sample,1.63,6,8/25/25
+a687,a687,341,4,5/19/25,pork,NA,no,Processing_finished_product,Drain ,Drain,negative,negative,Sample,1.02,6,8/25/25
+a689,a689,342,5,6/30/25,pork,NA,no,Receiving_area,Drain ,Drain,negative,negative,Sample,0.99,2,8/25/25
+a69,a69,33,1,5/6/24,pork,NA,no,Processing_finished_product,Drain ,Drain,negative,negative,Sample,0.697,4,7/5/24
+a695,a695,345,5,6/30/25,pork,NA,no,Raw_material_processing,Drain ,Drain,positive,negative,Sample,7.2,2,8/25/25
+a699,a699,347,5,6/30/25,pork,NA,no,Raw_material_processing,Drain ,Drain,negative,negative,Sample,2.1,2,8/25/25
+a7,a7,4,1,4/15/24,pork,NA,no,Raw_material_processing,Drain ,Drain,negative,negative,Sample,0.438,1,7/5/24
+a703,a703,349,5,6/30/25,pork,NA,no,Raw_material_processing,Drain ,Drain,negative,negative,Sample,0.788,2,8/25/25
+a713,a713,354,5,6/30/25,pork,NA,no,Cold_room,Drain ,Drain,negative,negative,Sample,3.74,2,8/25/25
+a717,a717,357,5,8/4/25,pork,NA,no,Receiving_area,Drain ,Drain,positive,negative,Sample,44,6,8/25/25
+a719,a719,356,5,8/4/25,pork,NA,no,Raw_material_processing,Drain ,Drain,positive,positive,Sample,34,6,8/25/25
+a725,a725,360,5,8/4/25,pork,NA,no,Raw_material_processing,Drain ,Drain,positive,negative,Sample,0.258,6,8/25/25
+a727,a727,361,5,8/4/25,pork,NA,no,Raw_material_processing,Drain ,Drain,positive,negative,Sample,0.138,6,8/25/25
+a735,a735,365,5,8/4/25,pork,NA,no,Cold_room,Drain ,Drain,positive,negative,Sample,0.0899,6,8/25/25
+a739,a739,367,5,8/4/25,pork,NA,no,Processing_finished_product,Drain ,Drain,positive,negative,Sample,1.12,6,8/25/25
+a79,a79,37,1,5/26/24,pork,NA,no,Raw_material_processing,Drain ,Drain,negative,negative,Sample,0.437,3,7/5/24
+a85,a85,40,1,5/26/24,pork,NA,no,Raw_material_processing,Drain ,Drain,negative,negative,Sample,0.136,3,7/5/24
+a87,a87,41,1,5/26/24,pork,NA,no,Raw_material_processing,Drain ,Drain,negative,negative,Sample,0.849,3,7/5/24
+a91,a91,43,1,5/26/24,pork,NA,no,Processing_finished_product,Drain ,Drain,negative,negative,Sample,0.122,3,7/5/24
+a95,a95,45,1,5/26/24,pork,NA,no,Cold_room,Drain ,Drain,negative,negative,Sample,78,3,7/5/24
+a99,a99,47,1,5/26/24,pork,NA,no,Processing_finished_product,Drain ,Drain,negative,negative,Sample,70,3,7/5/24
+a13,a13,7,1,4/15/24,pork,NA,yes ,Raw_material_processing,Foreign_body_detector_machine,Other,negative,negative,Sample,0.733,1,7/5/24
+a137,a137,66,2,7/1/24,pork,NA,yes,Raw_material_processing,Foreign_body_detector_machine,Other,negative,negative,Sample,0.132,1,3/25/25
+a285,a285,140,3,9/9/24,pork,NA,yes,Raw_material_processing,Foreign_body_detector_machine,Other,negative,negative,Sample,0.0552,1,3/25/25
+a433,a433,214,4,11/18/24,pork,NA,yes,Raw_material_processing,Foreign_body_detector_machine,Other,negative,negative,Sample,0.0614,1,3/25/25
+a581,a581,288,5,2/3/25,pork,NA,yes,Raw_material_processing,Foreign_body_detector_machine,Other,negative,negative,Sample,0.026,1,8/25/25
+a145,a145,70,2,7/1/24,both,NA,yes,Processing_finished_product,Meat_grinder,Other,negative,negative,Sample,0.0498,1,3/25/25
+a153,a153,74,2,7/15/24,pork,NA,yes,Raw_material_processing,Meat_grinder,Other,negative,negative,Sample,0.755,4,3/25/25
+a177,a177,86,2,7/28/24,pork,NA,yes,Raw_material_processing,Meat_grinder,Other,negative,negative,Sample,0.177,3,3/25/25
+a21,a21,11,1,4/15/24,both,NA,yes,Processing_finished_product,Meat_grinder,Other,negative,negative,Sample,0.139,1,7/5/24
+a213,a213,106,1,8/12/24,pork,NA,yes,Raw_material_processing,Meat_grinder,Other,negative,negative,Sample,0.1,6,3/25/25
+a247,a247,122,2,9/9/24,pork,NA,yes,Raw_material_processing,Meat_grinder,Other,negative,negative,Sample,0.0189,2,3/25/25
+a28,a28,13,1,4/29/24,pork,NA,yes,Raw_material_processing,Meat_grinder,Other,negative,negative,Sample,0.0898,2,7/5/24
+a293,a293,144,3,9/9/24,both,NA,yes,Processing_finished_product,Meat_grinder,Other,negative,negative,Sample,0.0085,1,3/25/25
+a301,a301,148,3,9/16/24,pork,NA,yes,Raw_material_processing,Meat_grinder,Other,negative,negative,Sample,0.0375,4,3/25/25
+a325,a325,161,3,10/13/24,pork,NA,yes,Raw_material_processing,Meat_grinder,Other,negative,negative,Sample,0.102,3,3/25/25
+a361,a361,178,2,10/21/24,pork,NA,yes,Raw_material_processing,Meat_grinder,Other,negative,negative,Sample,0.158,6,3/25/25
+a395,a395,199,3,11/18/24,pork,NA,yes,Raw_material_processing,Meat_grinder,Other,positive,negative,Sample,0.0776,2,3/25/25
+a441,a441,218,4,11/18/24,both,NA,yes,Processing_finished_product,Meat_grinder,Other,negative,negative,Sample,0.0706,1,8/25/25
+a449,a449,222,4,12/8/24,pork,NA,yes,Raw_material_processing,Meat_grinder,Other,negative,negative,Sample,0.118,4,8/25/25
+a473,a473,237,4,12/15/24,pork,NA,yes,Raw_material_processing,Meat_grinder,Other,negative,negative,Sample,0.204,3,8/25/25
+a509,a509,253,3,1/13/25,pork,NA,yes,Raw_material_processing,Meat_grinder,Other,negative,negative,Sample,0.218,6,8/25/25
+a543,a543,271,4,1/27/25,pork,NA,yes,Raw_material_processing,Meat_grinder,Other,negative,negative,Sample,0.142,2,8/25/25
+a57,a57,27,1,5/6/24,pork,NA,yes,Raw_material_processing,Meat_grinder,Other,negative,negative,Sample,0.507,4,7/5/24
+a589,a589,292,5,2/3/25,both,NA,yes,Processing_finished_product,Meat_grinder,Other,negative,negative,Sample,0.223,1,8/25/25
+a597,a597,296,5,2/16/25,pork,NA,yes,Raw_material_processing,Meat_grinder,Other,negative,negative,Sample,0.475,4,8/25/25
+a645,a645,320,5,5/11/25,pork,NA,yes,Raw_material_processing,Meat_grinder,Other,negative,negative,Sample,0.0798,3,8/25/25
+a681,a681,338,4,5/19/25,pork,NA,yes,Raw_material_processing,Meat_grinder,Other,negative,negative,Sample,1.2,6,8/25/25
+a691,a691,343,5,6/30/25,pork,NA,yes,Raw_material_processing,Meat_grinder,Other,negative,negative,Sample,1.63,2,8/25/25
+a733,a733,364,5,8/4/25,pork,NA,yes,Raw_material_processing,Meat_grinder,Other,negative,negative,Sample,0.264,6,8/25/25
+a81,a81,38,1,5/26/24,pork,NA,yes,Raw_material_processing,Meat_grinder,Other,negative,negative,Sample,1.38,3,7/5/24
+a167,a167,81,2,7/15/24,pork,NA,yes,Raw_material_processing,Sausage_filler,Other,negative,negative,Sample,0.272,4,3/25/25
+a185,a185,90,2,7/28/24,pork,NA,yes,Raw_material_processing,Sausage_filler,Other,negative,negative,Sample,0.287,3,3/25/25
+a211,a211,105,1,8/12/24,pork,NA,yes,Raw_material_processing,Sausage_filler,Other,negative,negative,Sample,1.42,6,3/25/25
+a257,a257,127,2,9/9/24,pork,NA,yes,Raw_material_processing,Sausage_filler,Other,negative,negative,Sample,0.266,2,3/25/25
+a315,a315,155,3,9/16/24,pork,NA,yes,Raw_material_processing,Sausage_filler,Other,negative,negative,Sample,0.0506,4,3/25/25
+a333,a333,165,3,10/13/24,pork,NA,yes,Raw_material_processing,Sausage_filler,Other,negative,negative,Sample,0.0218,3,3/25/25
+a359,a359,177,2,10/21/24,pork,NA,yes,Raw_material_processing,Sausage_filler,Other,negative,negative,Sample,0.0886,6,3/25/25
+a38,a38,18,1,4/29/24,pork,NA,yes,Raw_material_processing,Sausage_filler,Other,negative,negative,Sample,0.541,2,7/5/24
+a405,a405,196,3,11/18/24,pork,NA,yes,Raw_material_processing,Sausage_filler,Other,positive,positive,Sample,0.422,2,3/25/25
+a463,a463,229,4,12/8/24,pork,NA,yes,Raw_material_processing,Sausage_filler,Other,negative,negative,Sample,0.165,4,8/25/25
+a481,a481,240,4,12/15/24,pork,NA,yes,Raw_material_processing,Sausage_filler,Other,negative,negative,Sample,0.174,3,8/25/25
+a507,a507,252,3,1/13/25,pork,NA,yes,Raw_material_processing,Sausage_filler,Other,negative,negative,Sample,0.118,6,8/25/25
+a553,a553,276,4,1/27/25,pork,NA,yes,Raw_material_processing,Sausage_filler,Other,negative,negative,Sample,0.0885,2,8/25/25
+a611,a611,303,5,2/16/25,pork,NA,yes,Raw_material_processing,Sausage_filler,Other,negative,negative,Sample,0.646,4,8/25/25
+a653,a653,324,5,5/11/25,pork,NA,yes,Raw_material_processing,Sausage_filler,Other,negative,negative,Sample,0.0466,3,8/25/25
+a679,a679,337,4,5/19/25,pork,NA,yes,Raw_material_processing,Sausage_filler,Other,negative,negative,Sample,1.27,6,8/25/25
+a701,a701,348,5,6/30/25,pork,NA,yes,Raw_material_processing,Sausage_filler,Other,negative,negative,Sample,0.898,2,8/25/25
+a71,a71,34,1,5/6/24,pork,NA,yes,Raw_material_processing,Sausage_filler,Other,negative,negative,Sample,0.406,4,7/5/24
+a731,a731,363,5,8/4/25,pork,NA,yes,Raw_material_processing,Sausage_filler,Other,negative,negative,Sample,0.0905,6,8/25/25
+a89,a89,42,1,5/26/24,pork,NA,yes,Raw_material_processing,Sausage_filler,Other,negative,negative,Sample,0.686,3,7/5/24
+a253,a253,125,2,9/9/24,pork,NA,yes,Raw_material_processing,Tumbler,Other,positive,negative,Sample,1.57,2,3/25/25
+a34,a34,16,1,4/29/24,pork,NA,yes,Raw_material_processing,Tumbler,Other,negative,negative,Sample,1.44,2,7/5/24
+a401,a401,195,3,11/18/24,pork,NA,yes,Raw_material_processing,Tumbler,Other,positive,positive,Sample,2.2,2,3/25/25
+a549,a549,274,4,1/27/25,pork,NA,yes,Raw_material_processing,Tumbler,Other,negative,negative,Sample,0.847,2,8/25/25
+a697,a697,346,5,6/30/25,pork,NA,yes,Raw_material_processing,Tumbler,Other,negative,negative,Sample,1.21,2,8/25/25
